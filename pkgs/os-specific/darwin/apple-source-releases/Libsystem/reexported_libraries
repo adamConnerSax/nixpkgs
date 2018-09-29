@@ -28,7 +28,7 @@
 
 /usr/lib/system/libsystem_m.dylib
 /usr/lib/system/libsystem_malloc.dylib
-/usr/lib/system/libsystem_network.dylib
+# /usr/lib/system/libsystem_network.dylib -- removed in 10.14
 /usr/lib/system/libsystem_networkextension.dylib
 /usr/lib/system/libsystem_notify.dylib
 /usr/lib/system/libsystem_platform.dylib
