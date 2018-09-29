@@ -14,7 +14,7 @@ let
 
 in stdenv.mkDerivation rec {
   name = "freetype-${version}";
-  version = "2.9"
+  version = "2.9";
 
   meta = with stdenv.lib; {
     description = "A font rendering engine";
